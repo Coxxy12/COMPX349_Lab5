@@ -54,13 +54,25 @@ fix the remaining memory issues which I believed to have caused the results belo
 ***
 ***Task A***
 
+
+https://user-images.githubusercontent.com/109124700/201036063-aa3640ec-cc32-4f80-b079-1ab48413bcf8.mp4
+
+
 * As you can see when you run the program, the leds blinks moves left/right depending on what button you push.
 
 ***Task C***
 
+
+https://user-images.githubusercontent.com/109124700/201036090-983ab4be-a351-4dd6-8613-140e0bb5ca21.mp4
+
+
 * As you can see when you run the program, the leds moves back up when it hits the bottom bar.
 
 ***Task D***
+
+
+https://user-images.githubusercontent.com/109124700/201036106-1be04afa-ae01-4dcc-9410-f5d7884cb0e4.mp4
+
 
 * As you can see when you run the program, the leds moves at a random speed and random location once it hits the top border.
 
